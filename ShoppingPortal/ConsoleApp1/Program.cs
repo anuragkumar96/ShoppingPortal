@@ -31,6 +31,8 @@ namespace ConsoleApp1
               
                 while (check != 'N')
                 {
+                     Console.WriteLine("\n **List of Models**");
+                   Console.WriteLine("-> Hundai -> Chrysler -> Kia -> Mitsubishi");
                     Console.WriteLine("\n -> What is the Model's name? ");
                     carmodel = Console.ReadLine();
                     Console.WriteLine("\n **Checking for the availability of Car Model**");
