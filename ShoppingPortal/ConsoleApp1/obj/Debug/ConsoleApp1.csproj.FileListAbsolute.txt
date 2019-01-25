@@ -1,0 +1,7 @@
+D:\SEMESTER-4\GDP-2\44663\Assignment 1\ShoppingPortal\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+D:\SEMESTER-4\GDP-2\44663\Assignment 1\ShoppingPortal\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+D:\SEMESTER-4\GDP-2\44663\Assignment 1\ShoppingPortal\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+D:\SEMESTER-4\GDP-2\44663\Assignment 1\ShoppingPortal\ConsoleApp1\obj\Debug\ConsoleApp1.csprojAssemblyReference.cache
+D:\SEMESTER-4\GDP-2\44663\Assignment 1\ShoppingPortal\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+D:\SEMESTER-4\GDP-2\44663\Assignment 1\ShoppingPortal\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+D:\SEMESTER-4\GDP-2\44663\Assignment 1\ShoppingPortal\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
